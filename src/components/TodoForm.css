@@ -1,0 +1,20 @@
+.inputform {
+  margin-top: 50px;
+  border-radius: 5px;
+  background-color: aliceblue;
+  height: 80px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputbox {
+  height: 27px;
+  width: 75%;
+}
+.additem {
+  font-weight: 700;
+  margin-left: 5px;
+  height: 27px;
+  width: 80px;
+}
